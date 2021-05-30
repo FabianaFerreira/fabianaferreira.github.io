@@ -47,10 +47,10 @@ export default function Home() {
         <div className={styles.sections}>
           <Section
             img={"ginger-cat-759"}
-            title="Curriculum Vitae"
-            link="/resume"
+            title="Resume"
+            link="https://www.linkedin.com/in/fabiana-ferreira-fonseca/"
           />
-          <Section img={"ginger-cat-750"} title="Articles" link="/docs" />
+          <Section img={"ginger-cat-750"} title="Articles" link="/docs/intro" />
           <Section
             img={"ginger-cat-cat-is-reading"}
             title="Journal"
