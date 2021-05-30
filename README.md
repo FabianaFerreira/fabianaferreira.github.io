@@ -1,1 +1,1 @@
-WIP ⚠️
+This is a work in progress of a personal page hosted on GitHub pages
