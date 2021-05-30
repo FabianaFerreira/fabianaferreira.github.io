@@ -28,7 +28,7 @@ function HomepageHeader() {
 
 const Section = ({ img, title, link }) => (
   <div className={styles.section}>
-    <img className={styles.sectionImg} src={`../static/home/${img}.png`} />
+    <img className={styles.sectionImg} src={`/home/${img}.png`} />
     <Link className={clsx("button button--primary", styles.buttons)} to={link}>
       {title}
     </Link>
