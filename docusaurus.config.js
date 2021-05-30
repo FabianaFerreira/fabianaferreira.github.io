@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Fabiana Fonseca',
-  tagline: 'Personal blog',
+  tagline: 'Personal page',
   url: 'https://fabianaferreira.github.io',
-  baseUrl: '/fabianafonseca/',
+  baseUrl: '/personal-page/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'FabianaFerreira', // Usually your GitHub org/user name.
-  projectName: 'fabianafonseca', // Usually your repo name.
+  projectName: 'personal-page', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Fabiana Fonseca',
