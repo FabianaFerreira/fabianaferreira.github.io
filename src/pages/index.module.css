@@ -5,6 +5,43 @@
  * and scoped locally.
  */
 
+.header {
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #eb7e44;
+  font-size: 2.5rem;
+  padding-top: 10px;
+  margin: auto;
+}
+
+.sections {
+  display: flex;
+  justify-content: center;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  padding: 5rem;
+}
+
+.sectionImg {
+  width: 350px;
+  height: 200px;
+  padding-bottom: 2rem;
+  max-width: 300px;
+}
+
+.homeContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -15,6 +52,18 @@
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
+  }
+  .sections {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .homeContainer {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 }
 
