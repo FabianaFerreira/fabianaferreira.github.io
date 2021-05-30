@@ -3,7 +3,7 @@ module.exports = {
   title: 'Fabiana Fonseca',
   tagline: 'Personal blog',
   url: 'https://fabianaferreira.github.io',
-  baseUrl: '/',
+  baseUrl: '/fabianafonseca',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
