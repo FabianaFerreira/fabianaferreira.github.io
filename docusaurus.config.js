@@ -7,7 +7,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'FabianaFerreira', // Usually your GitHub org/user name.
+  organizationName: 'fabianaferreira', // Usually your GitHub org/user name.
   projectName: 'personal-page', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/FabianaFerreira/',
+          href: 'https://github.com/fabianaferreira/',
           label: 'GitHub',
           position: 'right',
         },
