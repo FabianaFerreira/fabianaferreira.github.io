@@ -1,1 +1,0 @@
-(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[412],{6353:function(a){"use strict";a.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"A little about myself and this journal","permalink":"/fabianafonseca/pt/blog/introduction"}]}')}}]);
