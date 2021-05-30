@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fabianaferreira.github.io/blog</id>
+    <title>Fabiana Fonseca Blog</title>
+    <updated>2021-05-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fabianaferreira.github.io/blog"/>
+    <subtitle>Fabiana Fonseca Blog</subtitle>
+    <icon>https://fabianaferreira.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A little about myself and this journal]]></title>
+        <id>introduction</id>
+        <link href="https://fabianaferreira.github.io/fabianafonseca/pt/blog/introduction"/>
+        <updated>2021-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi you! 👋]]></summary>
+    </entry>
+</feed>
