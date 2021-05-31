@@ -8,7 +8,7 @@
     <subtitle>Fabiana Fonseca Blog</subtitle>
     <icon>https://fabianaferreira.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Kubernetes 101 [pt-br]]]></title>
+        <title type="html"><![CDATA[Kubernetes 101]]></title>
         <id>k8s-101</id>
         <link href="https://fabianaferreira.github.io/personal-page/blog/k8s-101"/>
         <updated>2021-05-30T00:00:00.000Z</updated>
