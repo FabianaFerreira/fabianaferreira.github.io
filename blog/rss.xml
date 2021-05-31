@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Introdução aos símbolos e notações algébricas do xadrez (PT-BR)]]></title>
+            <link>https://fabianaferreira.github.io/personal-page/blog/chess-intro</link>
+            <guid>chess-intro</guid>
+            <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[A notação algébrica é a única forma reconhecida pela Fédération Internationale des Échecs (FIDE) para o registro de partidas.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Kubernetes 101]]></title>
             <link>https://fabianaferreira.github.io/personal-page/blog/k8s-101</link>
             <guid>k8s-101</guid>

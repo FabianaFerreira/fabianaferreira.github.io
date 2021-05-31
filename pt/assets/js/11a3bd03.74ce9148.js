@@ -1,1 +1,0 @@
-(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[661],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Kubernetes 101","permalink":"/personal-page/pt/blog/k8s-101"},{"title":"A little about myself and this journal","permalink":"/personal-page/pt/blog/introduction"}]}')}}]);

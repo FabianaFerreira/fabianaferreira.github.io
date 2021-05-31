@@ -8,6 +8,13 @@
     <subtitle>Fabiana Fonseca Blog</subtitle>
     <icon>https://fabianaferreira.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Introdução aos símbolos e notações algébricas do xadrez (PT-BR)]]></title>
+        <id>chess-intro</id>
+        <link href="https://fabianaferreira.github.io/personal-page/pt/blog/chess-intro"/>
+        <updated>2021-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A notação algébrica é a única forma reconhecida pela Fédération Internationale des Échecs (FIDE) para o registro de partidas.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kubernetes 101]]></title>
         <id>k8s-101</id>
         <link href="https://fabianaferreira.github.io/personal-page/pt/blog/k8s-101"/>
