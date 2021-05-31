@@ -4,9 +4,16 @@
         <title>Fabiana Fonseca Blog</title>
         <link>https://fabianaferreira.github.io/blog</link>
         <description>Fabiana Fonseca Blog</description>
-        <lastBuildDate>Wed, 26 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kubernetes 101 [pt-br]]]></title>
+            <link>https://fabianaferreira.github.io/personal-page/pt/blog/k8s-101</link>
+            <guid>k8s-101</guid>
+            <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Node]]></description>
+        </item>
         <item>
             <title><![CDATA[A little about myself and this journal]]></title>
             <link>https://fabianaferreira.github.io/personal-page/pt/blog/introduction</link>
