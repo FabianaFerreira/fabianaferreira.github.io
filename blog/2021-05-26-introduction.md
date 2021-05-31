@@ -8,7 +8,7 @@ author_image_url: https://avatars.githubusercontent.com/u/19495917?s=400&u=30269
 tags: [introduction, journal]
 ---
 
-### Hi you! 👋
+## Hi you! 👋
 
 Talking a little about me, I live in Rio de Janeiro, and I'm currently working at VTEX as a Software Engineer. I've graduated in Electronics and Computer Engineering at the Federal University of Rio de Janeiro.
 
