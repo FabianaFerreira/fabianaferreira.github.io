@@ -1,0 +1,1 @@
+(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[849],{668:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/personal-page/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
