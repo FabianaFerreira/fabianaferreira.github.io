@@ -2,11 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>Fabiana Fonseca Blog</title>
-        <link>https://fabianaferreira.github.io/blog</link>
+        <link>https://fabianaferreira.github.io/personal-page/pt/blog</link>
         <description>Fabiana Fonseca Blog</description>
-        <lastBuildDate>Thu, 03 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kubernetes Labels and Selectors]]></title>
+            <link>https://fabianaferreira.github.io/personal-page/pt/blog/k8s-101</link>
+            <guid>k8s-101</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Kubernetes uses labels and selectors to get all the different APIs in a single abstraction. For instance, how does a deployment know that a pod belongs to him? Because there is a label saying so.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kubernetes Networking]]></title>
+            <link>https://fabianaferreira.github.io/personal-page/pt/blog/k8s-101</link>
+            <guid>k8s-101</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[One of the most exciting parts about Kubernetes is how the network works. Thinking about different nodes and pods that do not know each other, how can they communicate?]]></description>
+        </item>
         <item>
             <title><![CDATA[Chess openings and its defenses]]></title>
             <link>https://fabianaferreira.github.io/personal-page/pt/blog/chess-openings</link>

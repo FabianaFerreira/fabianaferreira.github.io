@@ -1,1 +1,0 @@
-(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[206],{2970:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/personal-page/blog/tags","slug":"k-8-s","name":"k8s","count":1,"permalink":"/personal-page/blog/tags/k-8-s"}')}}]);
