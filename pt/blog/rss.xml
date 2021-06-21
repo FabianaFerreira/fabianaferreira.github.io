@@ -9,15 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Kubernetes Labels and Selectors]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/pt/blog/k8s-101</link>
-            <guid>k8s-101</guid>
+            <link>https://fabianaferreira.github.io/personal-page/pt/blog/k8s-labels-and-selectors</link>
+            <guid>k8s-labels-and-selectors</guid>
             <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Kubernetes uses labels and selectors to get all the different APIs in a single abstraction. For instance, how does a deployment know that a pod belongs to him? Because there is a label saying so.]]></description>
         </item>
         <item>
             <title><![CDATA[Kubernetes Networking]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/pt/blog/k8s-101</link>
-            <guid>k8s-101</guid>
+            <link>https://fabianaferreira.github.io/personal-page/pt/blog/k8s-network</link>
+            <guid>k8s-network</guid>
             <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[One of the most exciting parts about Kubernetes is how the network works. Thinking about different nodes and pods that do not know each other, how can they communicate?]]></description>
         </item>
