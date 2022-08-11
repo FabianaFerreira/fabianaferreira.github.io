@@ -3,7 +3,7 @@ module.exports = {
   title: 'Fabiana Fonseca',
   tagline: 'Personal page',
   url: 'https://fabianaferreira.github.io',
-  baseUrl: '/personal-page/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -62,7 +62,8 @@ module.exports = {
       },
     ],
   ],
-  plugins: [
-    require.resolve('@cmfcmf/docusaurus-search-local')
-  ],
+  // plugins: [
+  //   require.resolve("@cmfcmf/docusaurus-search-local"),
+
+  // ],
 };
