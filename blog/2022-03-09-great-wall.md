@@ -6,7 +6,6 @@ author: Fabiana Fonseca
 author_url: https://github.com/fabianaferreira
 author_image_url: https://avatars.githubusercontent.com/u/19495917?s=400&u=302696fe63b0bceec347a6b90dd42bddcea1cf43&v=4
 tags: [traveling, journal]
-sidebar_position: 1
 ---
 
 Hoje foi um dos melhores dia dessa viagem. Desde de manhã, acordei super motivada e animada com o passeio que faria. Estou há um tempo lendo um livro chamado O Coração do Mundo, que traz a história do mundo vista pelos diferentes nichos de comércio ao longo dos séculos. 
