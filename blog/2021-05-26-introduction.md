@@ -6,6 +6,7 @@ author_title: Software Engineer @ VTEX
 author_url: https://github.com/FabianaFonseca
 author_image_url: https://avatars.githubusercontent.com/u/19495917?s=400&u=302696fe63b0bceec347a6b90dd42bddcea1cf43&v=4
 tags: [introduction, journal]
+sidebar_position: 1
 ---
 
 ## Hi you! 👋
