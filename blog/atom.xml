@@ -1,52 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fabianaferreira.github.io/personal-page/blog</id>
+    <id>https://fabianaferreira.github.io/blog</id>
     <title>Fabiana Fonseca Blog</title>
-    <updated>2021-06-18T00:00:00.000Z</updated>
+    <updated>2022-03-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fabianaferreira.github.io/personal-page/blog"/>
+    <link rel="alternate" href="https://fabianaferreira.github.io/blog"/>
     <subtitle>Fabiana Fonseca Blog</subtitle>
-    <icon>https://fabianaferreira.github.io/personal-page/img/favicon.ico</icon>
+    <icon>https://fabianaferreira.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Kubernetes Labels and Selectors]]></title>
-        <id>k8s-labels-and-selectors</id>
-        <link href="https://fabianaferreira.github.io/personal-page/blog/k8s-labels-and-selectors"/>
-        <updated>2021-06-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes uses labels and selectors to get all the different APIs in a single abstraction. For instance, how does a deployment know that a pod belongs to him? Because there is a label saying so.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Networking]]></title>
-        <id>k8s-network</id>
-        <link href="https://fabianaferreira.github.io/personal-page/blog/k8s-network"/>
-        <updated>2021-06-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the most exciting parts about Kubernetes is how the network works. Thinking about different nodes and pods that do not know each other, how can they communicate?]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chess openings and its defenses]]></title>
-        <id>chess-openings</id>
-        <link href="https://fabianaferreira.github.io/personal-page/blog/chess-openings"/>
-        <updated>2021-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a matter of information, this page from chess.com has a lot of different opening and its defenses.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introdução aos símbolos e notações algébricas do xadrez (PT-BR)]]></title>
-        <id>chess-intro</id>
-        <link href="https://fabianaferreira.github.io/personal-page/blog/chess-intro"/>
-        <updated>2021-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A notação algébrica é a única forma reconhecida pela Fédération Internationale des Échecs (FIDE) para o registro de partidas.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes 101]]></title>
-        <id>k8s-101</id>
-        <link href="https://fabianaferreira.github.io/personal-page/blog/k8s-101"/>
-        <updated>2021-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hardware]]></summary>
+        <title type="html"><![CDATA[Visita a Muralha da China]]></title>
+        <id>great-wall</id>
+        <link href="https://fabianaferreira.github.io/blog/great-wall"/>
+        <updated>2022-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hoje foi um dos melhores dia dessa viagem. Desde de manhã, acordei super motivada e animada com o passeio que faria. Estou há um tempo lendo um livro chamado O Coração do Mundo, que traz a história do mundo vista pelos diferentes nichos de comércio ao longo dos séculos.]]></summary>
+        <content type="html"><![CDATA[<p>Hoje foi um dos melhores dia dessa viagem. Desde de manhã, acordei super motivada e animada com o passeio que faria. Estou há um tempo lendo um livro chamado O Coração do Mundo, que traz a história do mundo vista pelos diferentes nichos de comércio ao longo dos séculos. </p><p>No voo para cá, passei por diferentes capítulos que mencionavam partes da história da China, as diferentes dinastias, a rota da seda e até mesmo a invasão dos mongóis. Tudo isso passou perante meus olhos enquanto íamos de ônibus para o Juyongguan pass. Enquanto estava andando pela muralha, tentei pegar o máximo de informação possível sobre o local com os voluntários e são poucas as experiências que já tive que se igualam a essa.</p><p>Por conta do <em>closed loop</em>, o Comitê fechou essa parte da Muralha para que pudéssemos ir lá nesses passeios organizados por eles. Para os voluntários, era até estranho ver aquele trecho da muralha tão vazio, em geral estava sempre cheio de chineses e turistas no país. Em outras palavras, tínhamos aquele trechinho da Muralha somente para nós. Me diverti muito com Bárbara e o pessoal do Archives que foi, tentei fazer diversos vídeos para, quem sabe, editá-los em breve e fazer um reels legal.</p><p>Encontramos uma mulher chamada Liu Chen, que sabia muito sobre o local e sua história, era uma das organizadoras do passeio. Incrivelmente, elas nos disse que foi voluntária nas Olimpíadas do Rio 2016, conheceu as cidades de São Paulo e do Rio de Janeiro, mas nos disse que preferiu o Rio (já sabíamos disso!). Ela explicou várias coisas sobre o local e ainda me deu um pin, me deixou escolher dentre os tantos pins que ela tinha em sua credencial. No fim, ela me explicou o que estava escrito na passagem em si: “<em>The most splendid pass in the world</em>”. Talvez isso já não seja verdade atualmente, mas definitivamente ele é imponente e muito bonito.</p><p>De maneira geral, tudo no passeio foi incrível, o ônibus, a boa vontade dos voluntários, a pontualidade e o incrível presente do distrito de Changping, onde o Juyong pass fica. Ganhamos uma bolsa de tecido, com magnéticos, marcadores de livro, cartões postais e um livro sobre a Muralha. Foi tudo tão bem pensado que, ao fim do passeio, todos nós recebemos máscaras novas e excelentes para a jornada de quase uma hora de volta ao IBC. Absolutamente tudo foi pensado e planejado.</p><p>Perante essa experiência, as coisas simples do meu dia-a-dia até perdem um pouco a graça para serem relatadas. Voltando para o hotel, procurei mais sobre o local aonde fomos. Basicamente, ele foi palco de uma batalha no século 13, quando Genghis Khan conseguiu controlar o antes chamado  e foi em direção a cidade de Zhongdu, continuando o que viria a ser o começo da conquista da Dinastia Jin.</p><p><img loading="lazy" alt="image" src="/assets/images/muralha-a1419b7abc92be4aaf04720a0109e2ea.jpg" width="3005" height="2777" class="img_ev3q">
+<img loading="lazy" alt="image" src="/assets/images/muralha2-3b0ea5a570ab4ef61175805c9ecb9684.jpg" width="3231" height="2083" class="img_ev3q">
+<img loading="lazy" alt="image" src="/assets/images/muralha3-6326423990da932e06cfcaa2f54aec02.jpg" width="2871" height="3951" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Fabiana Fonseca</name>
+            <uri>https://github.com/fabianaferreira</uri>
+        </author>
+        <category label="traveling" term="traveling"/>
+        <category label="journal" term="journal"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[A little about myself and this journal]]></title>
         <id>introduction</id>
-        <link href="https://fabianaferreira.github.io/personal-page/blog/introduction"/>
+        <link href="https://fabianaferreira.github.io/blog/introduction"/>
         <updated>2021-05-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi you! 👋]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hi-you-">Hi you! 👋<a class="hash-link" href="#hi-you-" title="Direct link to heading">​</a></h2><p>Talking a little about me, I live in Rio de Janeiro, and I'm currently working at VTEX as a Software Engineer. I've graduated in Electronics and Computer Engineering at the Federal University of Rio de Janeiro.</p><p>I'm always looking for something new to learn, and I love to learn new languages; looking forward to reading books in Russian once I get enough knowledge to do so. Besides that, I love plants, and in my spare time, I crochet amigurumis.</p><p>These "blog" posts will be a part of a new personal initiative: keep in only one place things that I've learned daily. As time goes, I'll start documenting problems that I faced and how I solved them, notes that I take in my language courses, and, maybe, there will be a section only for my travel diaries, but I'm still thinking about it. </p><blockquote><p>The main goal here is to make sure that I can keep the registration of things that I do want to save for later and to be able to search for them quickly, a capability that a notebook does not have.</p></blockquote>]]></content>
+        <author>
+            <name>Fabiana Fonseca</name>
+            <uri>https://github.com/FabianaFonseca</uri>
+        </author>
+        <category label="introduction" term="introduction"/>
+        <category label="journal" term="journal"/>
     </entry>
 </feed>

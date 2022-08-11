@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[142],{2735:a=>{a.exports=JSON.parse('{"label":"traveling","permalink":"/blog/tags/traveling","allTagsPath":"/blog/tags","count":1}')}}]);

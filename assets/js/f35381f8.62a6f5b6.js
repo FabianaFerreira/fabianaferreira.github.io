@@ -1,1 +1,0 @@
-(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[813],{9037:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/personal-page/blog/tags","slug":"portuguese","name":"portuguese","count":1,"permalink":"/personal-page/blog/tags/portuguese"}')}}]);

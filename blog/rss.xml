@@ -1,53 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Fabiana Fonseca Blog</title>
-        <link>https://fabianaferreira.github.io/personal-page/blog</link>
+        <link>https://fabianaferreira.github.io/blog</link>
         <description>Fabiana Fonseca Blog</description>
-        <lastBuildDate>Fri, 18 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
         <item>
-            <title><![CDATA[Kubernetes Labels and Selectors]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/blog/k8s-labels-and-selectors</link>
-            <guid>k8s-labels-and-selectors</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Kubernetes uses labels and selectors to get all the different APIs in a single abstraction. For instance, how does a deployment know that a pod belongs to him? Because there is a label saying so.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kubernetes Networking]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/blog/k8s-network</link>
-            <guid>k8s-network</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[One of the most exciting parts about Kubernetes is how the network works. Thinking about different nodes and pods that do not know each other, how can they communicate?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chess openings and its defenses]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/blog/chess-openings</link>
-            <guid>chess-openings</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[As a matter of information, this page from chess.com has a lot of different opening and its defenses.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Introdução aos símbolos e notações algébricas do xadrez (PT-BR)]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/blog/chess-intro</link>
-            <guid>chess-intro</guid>
-            <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[A notação algébrica é a única forma reconhecida pela Fédération Internationale des Échecs (FIDE) para o registro de partidas.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kubernetes 101]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/blog/k8s-101</link>
-            <guid>k8s-101</guid>
-            <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hardware]]></description>
+            <title><![CDATA[Visita a Muralha da China]]></title>
+            <link>https://fabianaferreira.github.io/blog/great-wall</link>
+            <guid>great-wall</guid>
+            <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hoje foi um dos melhores dia dessa viagem. Desde de manhã, acordei super motivada e animada com o passeio que faria. Estou há um tempo lendo um livro chamado O Coração do Mundo, que traz a história do mundo vista pelos diferentes nichos de comércio ao longo dos séculos.]]></description>
+            <content:encoded><![CDATA[<p>Hoje foi um dos melhores dia dessa viagem. Desde de manhã, acordei super motivada e animada com o passeio que faria. Estou há um tempo lendo um livro chamado O Coração do Mundo, que traz a história do mundo vista pelos diferentes nichos de comércio ao longo dos séculos. </p><p>No voo para cá, passei por diferentes capítulos que mencionavam partes da história da China, as diferentes dinastias, a rota da seda e até mesmo a invasão dos mongóis. Tudo isso passou perante meus olhos enquanto íamos de ônibus para o Juyongguan pass. Enquanto estava andando pela muralha, tentei pegar o máximo de informação possível sobre o local com os voluntários e são poucas as experiências que já tive que se igualam a essa.</p><p>Por conta do <em>closed loop</em>, o Comitê fechou essa parte da Muralha para que pudéssemos ir lá nesses passeios organizados por eles. Para os voluntários, era até estranho ver aquele trecho da muralha tão vazio, em geral estava sempre cheio de chineses e turistas no país. Em outras palavras, tínhamos aquele trechinho da Muralha somente para nós. Me diverti muito com Bárbara e o pessoal do Archives que foi, tentei fazer diversos vídeos para, quem sabe, editá-los em breve e fazer um reels legal.</p><p>Encontramos uma mulher chamada Liu Chen, que sabia muito sobre o local e sua história, era uma das organizadoras do passeio. Incrivelmente, elas nos disse que foi voluntária nas Olimpíadas do Rio 2016, conheceu as cidades de São Paulo e do Rio de Janeiro, mas nos disse que preferiu o Rio (já sabíamos disso!). Ela explicou várias coisas sobre o local e ainda me deu um pin, me deixou escolher dentre os tantos pins que ela tinha em sua credencial. No fim, ela me explicou o que estava escrito na passagem em si: “<em>The most splendid pass in the world</em>”. Talvez isso já não seja verdade atualmente, mas definitivamente ele é imponente e muito bonito.</p><p>De maneira geral, tudo no passeio foi incrível, o ônibus, a boa vontade dos voluntários, a pontualidade e o incrível presente do distrito de Changping, onde o Juyong pass fica. Ganhamos uma bolsa de tecido, com magnéticos, marcadores de livro, cartões postais e um livro sobre a Muralha. Foi tudo tão bem pensado que, ao fim do passeio, todos nós recebemos máscaras novas e excelentes para a jornada de quase uma hora de volta ao IBC. Absolutamente tudo foi pensado e planejado.</p><p>Perante essa experiência, as coisas simples do meu dia-a-dia até perdem um pouco a graça para serem relatadas. Voltando para o hotel, procurei mais sobre o local aonde fomos. Basicamente, ele foi palco de uma batalha no século 13, quando Genghis Khan conseguiu controlar o antes chamado  e foi em direção a cidade de Zhongdu, continuando o que viria a ser o começo da conquista da Dinastia Jin.</p><p><img loading="lazy" alt="image" src="/assets/images/muralha-a1419b7abc92be4aaf04720a0109e2ea.jpg" width="3005" height="2777" class="img_ev3q">
+<img loading="lazy" alt="image" src="/assets/images/muralha2-3b0ea5a570ab4ef61175805c9ecb9684.jpg" width="3231" height="2083" class="img_ev3q">
+<img loading="lazy" alt="image" src="/assets/images/muralha3-6326423990da932e06cfcaa2f54aec02.jpg" width="2871" height="3951" class="img_ev3q"></p>]]></content:encoded>
+            <category>traveling</category>
+            <category>journal</category>
         </item>
         <item>
             <title><![CDATA[A little about myself and this journal]]></title>
-            <link>https://fabianaferreira.github.io/personal-page/blog/introduction</link>
+            <link>https://fabianaferreira.github.io/blog/introduction</link>
             <guid>introduction</guid>
             <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi you! 👋]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hi-you-">Hi you! 👋<a class="hash-link" href="#hi-you-" title="Direct link to heading">​</a></h2><p>Talking a little about me, I live in Rio de Janeiro, and I'm currently working at VTEX as a Software Engineer. I've graduated in Electronics and Computer Engineering at the Federal University of Rio de Janeiro.</p><p>I'm always looking for something new to learn, and I love to learn new languages; looking forward to reading books in Russian once I get enough knowledge to do so. Besides that, I love plants, and in my spare time, I crochet amigurumis.</p><p>These "blog" posts will be a part of a new personal initiative: keep in only one place things that I've learned daily. As time goes, I'll start documenting problems that I faced and how I solved them, notes that I take in my language courses, and, maybe, there will be a section only for my travel diaries, but I'm still thinking about it. </p><blockquote><p>The main goal here is to make sure that I can keep the registration of things that I do want to save for later and to be able to search for them quickly, a capability that a notebook does not have.</p></blockquote>]]></content:encoded>
+            <category>introduction</category>
+            <category>journal</category>
         </item>
     </channel>
 </rss>

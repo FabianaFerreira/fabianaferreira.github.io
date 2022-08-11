@@ -1,1 +1,0 @@
-(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[998],{8184:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/personal-page/pt/blog/tags","slug":"chess","name":"chess","count":2,"permalink":"/personal-page/pt/blog/tags/chess"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[121],{8070:a=>{a.exports=JSON.parse('[{"label":"k8s","permalink":"/pt/docs/tags/k-8-s","count":3},{"label":"101","permalink":"/pt/docs/tags/101","count":1}]')}}]);

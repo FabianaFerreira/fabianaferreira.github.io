@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[216],{2062:a=>{a.exports=JSON.parse('{"label":"introduction","permalink":"/pt/blog/tags/introduction","allTagsPath":"/pt/blog/tags","count":1}')}}]);

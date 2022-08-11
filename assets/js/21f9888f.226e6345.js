@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfabianafonseca=self.webpackChunkfabianafonseca||[]).push([[517],{1096:a=>{a.exports=JSON.parse('{"label":"101","permalink":"/docs/tags/101","allTagsPath":"/docs/tags","count":1,"items":[{"id":"technical/2021-05-30-k8s101","title":"Kubernetes 101","description":"Hardware","permalink":"/docs/technical/k8s-101"}]}')}}]);
